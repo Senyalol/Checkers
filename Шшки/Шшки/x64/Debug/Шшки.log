@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\semka\source\repos\Шшки\Шшки\Shashka.h(76,19): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\semka\source\repos\Шшки\Шшки\main.cpp(17,6): warning C4101: stolb: неиспользованная локальная переменная
+C:\Users\semka\source\repos\Шшки\Шшки\main.cpp(17,13): warning C4101: stroka: неиспользованная локальная переменная
+  Шшки.vcxproj -> C:\Users\semka\source\repos\Шшки\x64\Debug\Шшки.exe
